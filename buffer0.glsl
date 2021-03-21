@@ -33,15 +33,14 @@ vec4 getColor() {
         return mix(GREEN, RED, gradient);
     }
 
-    vec4 color = getLastFrame();
-
     if (iMouse.z > 0.0) {
+        vec4 color = texture2D(iChannel0, uv);
         vec2 mo = iMouse.xy / iResolution.xy;
-        if (length(uv-mo) >= 0.05) return color;
-        return mix(GREEN, RED, clamp(length(uv-mo), 0.0, 1.0));
+        float mask = step(length(uv-mo), 0.05);
+        return mix(color, RED, mask);
     }
 
-    return color;
+    return getLastFrame();
 }
 
 void main() {
