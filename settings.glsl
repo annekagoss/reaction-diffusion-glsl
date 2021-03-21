@@ -92,5 +92,5 @@ Settings spikeyBoi = Settings(
 );
 
 Settings getSettings() {
-    return pi1;
+    return settings;
 }
