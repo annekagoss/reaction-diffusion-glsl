@@ -21,7 +21,7 @@ Pi1             |Rho1
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/pi1.png?raw=true) | ![alt text](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/rho1.png?raw=true)
 
-SpikeyBoi           |
+SpikeyBoi           | SpikeyBoi
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/spikeboi-0.png?raw=true) | 
+![alt text](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/spikeboi-0.png?raw=true) | ![alt text](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/spikeboi.png?raw=true)
 
