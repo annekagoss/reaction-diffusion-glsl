@@ -6,8 +6,6 @@ Implementation of reaction diffusion using the Shader Toy Visual Studio Code ext
 Default             | All Dots
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/default-2.png?raw=true) | ![alt text](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/allDots.png?raw=true)
-Default
-![alt text](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/default-2.png?raw=true)
 
 
 Spiral             | Mu1
