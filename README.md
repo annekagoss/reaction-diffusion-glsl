@@ -2,7 +2,7 @@
 Implementation of reaction diffusion using the Shader Toy Visual Studio Code extension.
 
 ## Raymarched displacement
-![](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/sphere-drawing.gif?raw=true)
+![](https://github.com/annekagoss/reaction-diffusion-glsl/blob/main/screenshots/sphere-drawing-2.gif?raw=true)
 
 ## Presets
 
